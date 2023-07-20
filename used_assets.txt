@@ -1,0 +1,3 @@
+https://assetstore.unity.com/packages/2d/undead-survivor-assets-pack-238068 sprites
+https://assetstore.unity.com/packages/audio/sound-fx/voices/rpg-voice-pack-vol-1-by-replica-studios-189944 human sounds
+https://assetstore.unity.com/packages/audio/sound-fx/creatures/free-zombie-character-sounds-141740 zombie sounds
