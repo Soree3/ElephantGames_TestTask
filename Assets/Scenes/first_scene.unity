@@ -280,10 +280,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5444619596152119356, guid: 6cad0929a3e163a4a9c35237916b537e, type: 3}
-      propertyPath: m_Volume
-      value: 0.2
-      objectReference: {fileID: 0}
     - target: {fileID: 5444619596152119357, guid: 6cad0929a3e163a4a9c35237916b537e, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -4670,7 +4666,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1753186884
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4928,10 +4924,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2782141933327130601, guid: 2f3fc814c0aef6d43b5ea25443ccfa92, type: 3}
-      propertyPath: m_SortingOrder
-      value: 34
-      objectReference: {fileID: 0}
+    - target: {fileID: 183504878, guid: 2f3fc814c0aef6d43b5ea25443ccfa92, type: 3}
+      propertyPath: button
+      value: 
+      objectReference: {fileID: 1753186883}
     - target: {fileID: 2782141934918475985, guid: 2f3fc814c0aef6d43b5ea25443ccfa92, type: 3}
       propertyPath: m_Name
       value: static_sprites
@@ -5103,6 +5099,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1812504056}
     m_Modifications:
+    - target: {fileID: 1533946633, guid: 8e6042bc0d674d24d90bca5b61d9059a, type: 3}
+      propertyPath: obj
+      value: 
+      objectReference: {fileID: 793824484}
     - target: {fileID: 1533946633, guid: 8e6042bc0d674d24d90bca5b61d9059a, type: 3}
       propertyPath: zombie
       value: 
